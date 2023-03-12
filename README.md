@@ -11,6 +11,7 @@
 - [massCode](https://masscode.io/) A free and open source code snippets manager for developers.
 - [RunJS](https://runjs.app/) (The JavaScript playground for your desktop)
 - [iTerm2](https://iterm2.com/) iTerm2 is a terminal emulator for macOS that does amazing things. [boost your terminal speed with this setting](https://medium.com/@muhammeteser/kendime-not-iterm-i-etkili-kullanmak-300cf8245580)
+- [Fig](https://fig.io/) The next-generation command line.
 
 ### Raycast Extensions
 
