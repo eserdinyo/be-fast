@@ -11,8 +11,8 @@
 - [massCode](https://masscode.io/) A free and open source code snippets manager for developers.
 - [RunJS](https://runjs.app/) (The JavaScript playground for your desktop)
 - [iTerm2](https://iterm2.com/) iTerm2 is a terminal emulator for macOS that does amazing things. [boost your terminal speed with this setting](https://medium.com/@muhammeteser/kendime-not-iterm-i-etkili-kullanmak-300cf8245580)
-- [Warp](https://www.warp.dev/) Warp is an AI-supported terminal application that allows users to interact with their computer through a command-line interface. 
-- [Paw](https://paw.cloud/) Paw for Mac is a full-featured HTTP client that lets you test and describe the APIs you build or consume. 
+- [Warp](https://www.warp.dev/) Warp is an AI-supported terminal application that allows users to interact with their computer through a command-line interface.
+- [Paw](https://paw.cloud/) Paw for Mac is a full-featured HTTP client that lets you test and describe the APIs you build or consume.
 - [Fig](https://fig.io/) The next-generation command line.
 
 ### Raycast Extensions
@@ -26,3 +26,12 @@
 - [Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) A form filler that fills all inputs on a page with fake/dummy data.
 - [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen.
 - [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) Open source browser design tools
+
+### VsCode Extensions
+
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) Your AI pair programmer
+- [Sourcegraph](https://marketplace.visualstudio.com/items?itemName=sourcegraph.sourcegraph) Searching millions of public repositories
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) Show TODO, FIXME, etc. comment tags in a tree view
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) Intelligent Tailwind CSS tooling for VS Code
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) Highlight web colors in your editor
+- [Duplicate action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate) Ability to duplicate files in VS Code
